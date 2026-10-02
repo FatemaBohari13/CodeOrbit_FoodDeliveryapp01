@@ -41,11 +41,11 @@ The platform provides a clean and interactive interface for browsing popular foo
 
 ## 🌐 Live Demo
 
-[Add your GitHub Pages link here]
+https://fatemabohari13.github.io/CodeOrbit_FoodDeliveryapp01/
 
 ## 📂 Repository Link
 
-[Add your GitHub repository link here]
+https://github.com/FatemaBohari13/CodeOrbit_FoodDeliveryapp01/
 
 ## 🎯 Learning Outcomes
 
